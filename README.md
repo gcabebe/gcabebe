@@ -1,5 +1,4 @@
-## Welcome 🎷🐌
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Placeholder WELCOME image.](https://github.com/gcabebe/gcabebe/blob/main/github_welcome_placeholder.png)
 <!--
 **gcabebe/gcabebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
